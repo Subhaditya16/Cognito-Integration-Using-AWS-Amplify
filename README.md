@@ -1,4 +1,4 @@
-# test1
+# Cognito-Integration-Using-AWS-Amplify
 
 > My premium Nuxt.js project
 
